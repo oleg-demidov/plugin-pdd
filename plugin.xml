@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Pdd</lang>
+	</name>
+	<author>
+		<lang name="default">Oleg Demidov</lang>
+	</author>
+	<homepage></homepage>
+	<settings></settings>
+	<version>1.0.0</version>
+	<requires>
+		<livestreet>2.0.1</livestreet>
+		<plugins>
+                    <test></test>
+                    <payment></payment>
+                    <page></page>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Pdd</lang>
+		<lang name="russian">Оплата</lang>
+	</description>
+</plugin>

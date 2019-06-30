@@ -1,0 +1,11 @@
+{
+    "name": "period",
+    "version": "1.0.0",
+    
+    "templates":{
+        "block-period":"blocks/block-period.tpl"
+    },
+    "styles":{
+        "period":"css/period.css"
+    }
+}
